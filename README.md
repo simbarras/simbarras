@@ -6,6 +6,12 @@
 ## ML
 - Machine Lernia https://www.youtube.com/channel/UCmpptkXu8iIFe6kfDK5o7VQ
 # Tools
+## Help
+### React
+#### Creat new app
+''' npx create-react-app my-app '''
+#### Sart app
+''' npm start '''
 ## IDE
 - Jetbrains (IntelliJ, PyCharm, ...)
 - VSCode

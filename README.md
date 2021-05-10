@@ -9,9 +9,9 @@
 ## Help
 ### React
 #### Creat new app
-''' npx create-react-app my-app '''
+ `npx create-react-app my-app`
 #### Sart app
-''' npm start '''
+`npm start`
 ## IDE
 - Jetbrains (IntelliJ, PyCharm, ...)
 - VSCode

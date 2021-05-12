@@ -13,7 +13,8 @@
 #### Sart app
 `npm start`
 ## IDE
-- Jetbrains (IntelliJ, PyCharm, ...)
-- VSCode
+### Jetbrains (IntelliJ, PyCharm, ...)
+ - `Ctrl+Shift+Alt+u`-> UML diagram
+### VSCode
 ## Other
   - PowerToys : Usefull options to upgrade the productivity of Windows (devolepped by Microsoft team) https://docs.microsoft.com/en-us/windows/powertoys/

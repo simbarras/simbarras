@@ -7,7 +7,8 @@
 - Machine Lernia https://www.youtube.com/channel/UCmpptkXu8iIFe6kfDK5o7VQ
 # Help
 ## Cheat Sheet
-https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m
+- All: https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m
+- Java: https://cheatography.com/son9912/cheat-sheets/java-oop-concept/
 ## Repo
 - Engineer notes: https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f
 - Tech interview: https://github.com/yangshun/tech-interview-handbook

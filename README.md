@@ -15,6 +15,7 @@
 ## IDE
 ### Jetbrains (IntelliJ, PyCharm, ...)
  - `Ctrl+Shift+Alt+u`-> UML diagram
+ - `Ctrl+Shift+Enter`-> accept suggestions
 ### VSCode
 ## Other
   - PowerToys : Usefull options to upgrade the productivity of Windows (devolepped by Microsoft team) https://docs.microsoft.com/en-us/windows/powertoys/

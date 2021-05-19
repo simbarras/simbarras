@@ -18,10 +18,8 @@
 - Free library/service for dev: https://github.com/ripienaar/free-for-dev
 - You don't need: https://github.com/you-dont-need/You-Dont-Need
 ## React
-### Creat new app
- `npx create-react-app my-app`
-### Sart app
-`npm start`
+- Creat new app: `npx create-react-app my-app`
+- Sart app: `npm start`
 # Tools
 ## IDE
 ### Jetbrains (IntelliJ, PyCharm, ...)

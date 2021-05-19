@@ -1,7 +1,9 @@
 # [Simon Barras](../README.md)
+
 # Learning
 ## ML
 - Machine Lernia https://www.youtube.com/channel/UCmpptkXu8iIFe6kfDK5o7VQ
+
 # Help
 ## Cheat Sheet
 - All: https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m
@@ -17,6 +19,7 @@
 ## React
 - Creat new app: `npx create-react-app my-app`
 - Sart app: `npm start`
+
 # Tools
 ## IDE
 ### Jetbrains (IntelliJ, PyCharm, ...)

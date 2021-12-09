@@ -5,7 +5,6 @@
  - [Linkedin](www.linkedin.com/in/simbarras, "www.linkedin.com/in/simbarras")
 
 # Current project
- - [ML](https://github.com/simbarras/ML, "GitHub project"): I'm waiting to a new video
- - [Webswitch](https://github.com/simbarras/WebSwitch, "GitHub project"): I need more time
+ - A fond dans les études !!
 
 # [More](./more)

@@ -5,6 +5,6 @@
  - [Linkedin](www.linkedin.com/in/simbarras, "www.linkedin.com/in/simbarras")
 
 # Current project
- - A fond dans les études !!
+ - Working on celeritas at LBL for my bachelor thesis
 
 # [More](./more)
